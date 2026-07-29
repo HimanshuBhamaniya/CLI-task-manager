@@ -31,5 +31,5 @@ All tasks are stored in a local `tasks.json` file with timestamps for creation a
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <(https://github.com/HimanshuBhamaniya/CLI-task-manager.git)>
 cd CLI-task-manager
